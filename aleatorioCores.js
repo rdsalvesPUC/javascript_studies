@@ -10,3 +10,5 @@ else if (x == 5 || x == 7 || x == 9) {
 }
 else
     console.log('amarelo');
+
+// git setup
